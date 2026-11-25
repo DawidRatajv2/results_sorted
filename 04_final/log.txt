@@ -1,0 +1,52 @@
+17:14:03  STEP 2: break-even points (model C is an LP, fast)
+17:14:30  STEP 2 done:
+           parameter    value      G_DKK   cap_kW
+           cap_scale 0.800000 -21.902710      NaN
+           cap_scale 0.840000  -9.621801      NaN
+           cap_scale 0.860000  -4.172784      NaN
+           cap_scale 0.880000   1.033466      NaN
+           cap_scale 0.900000   6.186698      NaN
+           cap_scale 0.920000  11.265980      NaN
+                beta 0.000000 -43.782795      NaN
+                beta 0.400000  -7.919033      NaN
+                beta 0.440000  -4.223313      NaN
+                beta 0.480000  -0.366750      NaN
+                beta 0.500000   1.561531      NaN
+                beta 0.550000   6.382235      NaN
+BREAK-EVEN cap_scale 0.875990   0.000000 8.225542
+     BREAK-EVEN beta 0.483807   0.000000      NaN
+17:14:30  STEP 3: sweep figure with new names
+17:14:33  STEP 3 output: ok
+17:14:33  STEP 1: IR against C_ref = min(C_R, C_I), price per member
+17:14:44  STEP 1 done:
+                                            51
+job                                 ind_ir_ref
+stage                               ind_ir_ref
+kind                                        ir
+groups                              individual
+beta                                      0.75
+alpha                                     10.0
+cap_scale                                  1.0
+eps                                        0.0
+C_cost_DKK                          372.162434
+R_cost_DKK                          398.241694
+status                                 optimal
+runtime_s                             8.267539
+community_cost_DKK                  372.162433
+community_benefit_vs_R_DKK           26.079261
+community_cost_difference_vs_C_DKK         NaN
+daily_import_kWh                    180.081012
+peak_import_kW                            9.39
+hours_above_cap                            0.0
+exceedance_kWh                             0.0
+shifted_kWh                          55.629979
+manager_meter_cost_DKK              179.000049
+member_payments_collected_DKK        179.00005
+budget_balance_residual_DKK           0.000001
+total_IR_shortfall_DKK                     0.0
+mip_gap                                    0.0
+members_better_off_vs_R                   16.0
+members_worse_off_vs_R                     0.0
+blocking_members                           NaN
+ir_ref                                    best
+17:14:44  ALL DONE

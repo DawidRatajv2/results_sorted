@@ -1,0 +1,666 @@
+13:31:24  START [1/4] cap_only
+13:31:25  [1/4] cap_only | elapsed 0:00:00 | best   372.162 | bound         - | gap - | nodes 0
+13:31:26  END [1/4] cap_only: optimal | time 0:00:01
+13:31:26  START [2/4] budget_balance
+13:31:30  [2/4] budget_balance | elapsed 0:00:02 | best   535.929 | bound         - | gap - | nodes 0
+13:31:40  [2/4] budget_balance | elapsed 0:00:13 | best   414.402 | bound   372.162 | gap  10.19% | nodes 0
+13:31:51  [2/4] budget_balance | elapsed 0:00:23 | best   373.405 | bound   372.162 | gap   0.33% | nodes 154
+13:32:04  [2/4] budget_balance | elapsed 0:00:37 | best   372.184 | bound   372.162 | gap   0.01% | nodes 805
+13:32:15  [2/4] budget_balance | elapsed 0:00:47 | best   372.184 | bound   372.162 | gap   0.01% | nodes 2042
+13:32:25  [2/4] budget_balance | elapsed 0:00:58 | best   372.184 | bound   372.162 | gap   0.01% | nodes 2273
+13:32:37  [2/4] budget_balance | elapsed 0:01:09 | best   372.184 | bound   372.162 | gap   0.01% | nodes 2889
+13:32:51  [2/4] budget_balance | elapsed 0:01:23 | best   372.184 | bound   372.162 | gap   0.01% | nodes 5133
+13:33:03  [2/4] budget_balance | elapsed 0:01:35 | best   372.184 | bound   372.162 | gap   0.01% | nodes 7362
+13:33:15  [2/4] budget_balance | elapsed 0:01:47 | best   372.184 | bound   372.162 | gap   0.01% | nodes 9484
+13:33:26  [2/4] budget_balance | elapsed 0:01:58 | best   372.184 | bound   372.162 | gap   0.01% | nodes 11427
+13:33:43  [2/4] budget_balance | elapsed 0:02:16 | best   372.184 | bound   372.162 | gap   0.01% | nodes 15067
+13:34:03  [2/4] budget_balance | elapsed 0:02:35 | best   372.184 | bound   372.162 | gap   0.01% | nodes 19053
+13:34:17  [2/4] budget_balance | elapsed 0:02:49 | best   372.184 | bound   372.162 | gap   0.01% | nodes 22902
+13:34:37  [2/4] budget_balance | elapsed 0:03:09 | best   372.184 | bound   372.162 | gap   0.01% | nodes 24991
+13:34:49  [2/4] budget_balance | elapsed 0:03:21 | best   372.184 | bound   372.162 | gap   0.01% | nodes 28767
+13:35:02  [2/4] budget_balance | elapsed 0:03:35 | best   372.184 | bound   372.162 | gap   0.01% | nodes 35701
+13:35:12  [2/4] budget_balance | elapsed 0:03:45 | best   372.184 | bound   372.162 | gap   0.01% | nodes 38736
+13:35:25  [2/4] budget_balance | elapsed 0:03:58 | best   372.184 | bound   372.162 | gap   0.01% | nodes 39111
+13:35:39  [2/4] budget_balance | elapsed 0:04:11 | best   372.184 | bound   372.162 | gap   0.01% | nodes 39799
+13:35:55  [2/4] budget_balance | elapsed 0:04:28 | best   372.184 | bound   372.162 | gap   0.01% | nodes 40935
+13:36:14  [2/4] budget_balance | elapsed 0:04:46 | best   372.184 | bound   372.162 | gap   0.01% | nodes 42444
+13:36:31  [2/4] budget_balance | elapsed 0:05:03 | best   372.184 | bound   372.162 | gap   0.01% | nodes 44735
+13:36:50  [2/4] budget_balance | elapsed 0:05:23 | best   372.184 | bound   372.162 | gap   0.01% | nodes 46630
+13:36:51  END [2/4] budget_balance: interrupted_best_found | time 0:05:23
+13:36:51  START [3/4] budget_balance_ir
+13:36:52  [3/4] budget_balance_ir | elapsed 0:00:00 | best none yet | bound         - | gap - | nodes 0
+13:37:03  [3/4] budget_balance_ir | elapsed 0:00:10 | best none yet | bound   372.162 | gap - | nodes 0
+13:37:15  [3/4] budget_balance_ir | elapsed 0:00:22 | best none yet | bound   372.162 | gap - | nodes 54
+13:37:27  [3/4] budget_balance_ir | elapsed 0:00:35 | best none yet | bound   372.162 | gap - | nodes 221
+13:37:40  [3/4] budget_balance_ir | elapsed 0:00:48 | best none yet | bound   372.162 | gap - | nodes 464
+13:37:51  [3/4] budget_balance_ir | elapsed 0:00:59 | best none yet | bound   372.162 | gap - | nodes 732
+13:38:03  [3/4] budget_balance_ir | elapsed 0:01:11 | best none yet | bound   372.162 | gap - | nodes 1038
+13:38:20  [3/4] budget_balance_ir | elapsed 0:01:28 | best none yet | bound   372.162 | gap - | nodes 1438
+13:38:32  [3/4] budget_balance_ir | elapsed 0:01:40 | best none yet | bound   372.162 | gap - | nodes 1442
+13:38:44  [3/4] budget_balance_ir | elapsed 0:01:52 | best none yet | bound   372.162 | gap - | nodes 1448
+13:38:55  [3/4] budget_balance_ir | elapsed 0:02:03 | best none yet | bound   372.163 | gap - | nodes 1456
+13:39:06  [3/4] budget_balance_ir | elapsed 0:02:14 | best none yet | bound   372.171 | gap - | nodes 1516
+13:39:17  [3/4] budget_balance_ir | elapsed 0:02:24 | best none yet | bound   372.174 | gap - | nodes 1582
+13:39:34  [3/4] budget_balance_ir | elapsed 0:02:42 | best none yet | bound   372.174 | gap - | nodes 1728
+13:39:46  [3/4] budget_balance_ir | elapsed 0:02:54 | best none yet | bound   372.174 | gap - | nodes 1887
+13:39:58  [3/4] budget_balance_ir | elapsed 0:03:05 | best none yet | bound   372.174 | gap - | nodes 2060
+13:40:09  [3/4] budget_balance_ir | elapsed 0:03:17 | best none yet | bound   372.174 | gap - | nodes 2262
+13:40:22  [3/4] budget_balance_ir | elapsed 0:03:29 | best none yet | bound   372.174 | gap - | nodes 2413
+13:40:34  [3/4] budget_balance_ir | elapsed 0:03:42 | best none yet | bound   372.174 | gap - | nodes 2595
+13:40:44  [3/4] budget_balance_ir | elapsed 0:03:52 | best none yet | bound   372.174 | gap - | nodes 2755
+13:40:59  [3/4] budget_balance_ir | elapsed 0:04:06 | best none yet | bound   372.174 | gap - | nodes 2902
+13:41:10  [3/4] budget_balance_ir | elapsed 0:04:18 | best none yet | bound   372.177 | gap - | nodes 3010
+13:41:24  [3/4] budget_balance_ir | elapsed 0:04:32 | best none yet | bound   372.177 | gap - | nodes 3247
+13:41:39  [3/4] budget_balance_ir | elapsed 0:04:47 | best none yet | bound   372.177 | gap - | nodes 3504
+13:41:54  [3/4] budget_balance_ir | elapsed 0:05:02 | best none yet | bound   372.189 | gap - | nodes 3870
+13:42:14  [3/4] budget_balance_ir | elapsed 0:05:21 | best none yet | bound   372.189 | gap - | nodes 4573
+13:42:34  [3/4] budget_balance_ir | elapsed 0:05:42 | best none yet | bound   372.198 | gap - | nodes 5221
+13:42:45  [3/4] budget_balance_ir | elapsed 0:05:53 | best none yet | bound   372.198 | gap - | nodes 5484
+13:42:57  [3/4] budget_balance_ir | elapsed 0:06:05 | best none yet | bound   372.198 | gap - | nodes 5710
+13:43:09  [3/4] budget_balance_ir | elapsed 0:06:17 | best none yet | bound   372.199 | gap - | nodes 6388
+13:43:23  [3/4] budget_balance_ir | elapsed 0:06:30 | best none yet | bound   372.199 | gap - | nodes 6636
+13:43:35  [3/4] budget_balance_ir | elapsed 0:06:43 | best none yet | bound   372.199 | gap - | nodes 7392
+13:43:53  [3/4] budget_balance_ir | elapsed 0:07:01 | best none yet | bound   372.200 | gap - | nodes 7675
+13:44:08  [3/4] budget_balance_ir | elapsed 0:07:15 | best none yet | bound   372.201 | gap - | nodes 9016
+13:44:27  [3/4] budget_balance_ir | elapsed 0:07:35 | best none yet | bound   372.201 | gap - | nodes 9682
+13:44:41  [3/4] budget_balance_ir | elapsed 0:07:49 | best none yet | bound   372.201 | gap - | nodes 11288
+13:45:01  [3/4] budget_balance_ir | elapsed 0:08:09 | best none yet | bound   372.202 | gap - | nodes 11727
+13:45:20  [3/4] budget_balance_ir | elapsed 0:08:28 | best none yet | bound   372.202 | gap - | nodes 13229
+13:46:34  [3/4] budget_balance_ir | elapsed 0:09:42 | best none yet | bound   372.202 | gap - | nodes 13432
+13:47:16  [3/4] budget_balance_ir | elapsed 0:10:24 | best none yet | bound   372.203 | gap - | nodes 15647
+13:47:37  [3/4] budget_balance_ir | elapsed 0:10:45 | best none yet | bound   372.203 | gap - | nodes 18189
+13:47:55  [3/4] budget_balance_ir | elapsed 0:11:03 | best none yet | bound   372.203 | gap - | nodes 18376
+13:48:21  [3/4] budget_balance_ir | elapsed 0:11:29 | best none yet | bound   372.203 | gap - | nodes 18731
+13:48:37  [3/4] budget_balance_ir | elapsed 0:11:45 | best none yet | bound   372.203 | gap - | nodes 20598
+13:49:00  [3/4] budget_balance_ir | elapsed 0:12:08 | best none yet | bound   372.204 | gap - | nodes 20939
+13:49:17  [3/4] budget_balance_ir | elapsed 0:12:25 | best none yet | bound   372.204 | gap - | nodes 22699
+13:49:37  [3/4] budget_balance_ir | elapsed 0:12:44 | best none yet | bound   372.204 | gap - | nodes 22874
+13:49:52  [3/4] budget_balance_ir | elapsed 0:13:00 | best none yet | bound   372.204 | gap - | nodes 23837
+13:50:07  [3/4] budget_balance_ir | elapsed 0:13:15 | best none yet | bound   372.204 | gap - | nodes 24108
+13:50:29  [3/4] budget_balance_ir | elapsed 0:13:37 | best none yet | bound   372.204 | gap - | nodes 24421
+13:50:46  [3/4] budget_balance_ir | elapsed 0:13:54 | best none yet | bound   372.204 | gap - | nodes 24860
+13:51:08  [3/4] budget_balance_ir | elapsed 0:14:16 | best none yet | bound   372.204 | gap - | nodes 25222
+13:55:11  [3/4] budget_balance_ir | elapsed 0:18:19 | best none yet | bound   372.204 | gap - | nodes 26465
+13:55:35  [3/4] budget_balance_ir | elapsed 0:18:43 | best none yet | bound   372.204 | gap - | nodes 26469
+13:55:54  [3/4] budget_balance_ir | elapsed 0:19:02 | best none yet | bound   372.204 | gap - | nodes 26471
+13:56:17  [3/4] budget_balance_ir | elapsed 0:19:24 | best none yet | bound   372.204 | gap - | nodes 26473
+13:56:45  [3/4] budget_balance_ir | elapsed 0:19:53 | best none yet | bound   372.204 | gap - | nodes 26477
+13:56:56  [3/4] budget_balance_ir | elapsed 0:20:04 | best none yet | bound   372.204 | gap - | nodes 26610
+13:57:08  [3/4] budget_balance_ir | elapsed 0:20:16 | best none yet | bound   372.204 | gap - | nodes 26769
+13:57:18  [3/4] budget_balance_ir | elapsed 0:20:26 | best none yet | bound   372.204 | gap - | nodes 26930
+13:57:30  [3/4] budget_balance_ir | elapsed 0:20:38 | best none yet | bound   372.204 | gap - | nodes 27144
+13:57:40  [3/4] budget_balance_ir | elapsed 0:20:48 | best none yet | bound   372.204 | gap - | nodes 27299
+13:57:52  [3/4] budget_balance_ir | elapsed 0:21:00 | best none yet | bound   372.204 | gap - | nodes 27469
+13:58:05  [3/4] budget_balance_ir | elapsed 0:21:13 | best none yet | bound   372.204 | gap - | nodes 27683
+13:58:19  [3/4] budget_balance_ir | elapsed 0:21:27 | best none yet | bound   372.204 | gap - | nodes 27970
+13:58:38  [3/4] budget_balance_ir | elapsed 0:21:45 | best none yet | bound   372.204 | gap - | nodes 28230
+13:58:48  [3/4] budget_balance_ir | elapsed 0:21:56 | best none yet | bound   372.204 | gap - | nodes 28392
+14:08:45  [3/4] budget_balance_ir | elapsed 0:31:53 | best none yet | bound   372.204 | gap - | nodes 28529
+14:08:57  [3/4] budget_balance_ir | elapsed 0:32:05 | best none yet | bound   372.204 | gap - | nodes 28845
+14:09:11  [3/4] budget_balance_ir | elapsed 0:32:19 | best none yet | bound   372.204 | gap - | nodes 29120
+14:09:25  [3/4] budget_balance_ir | elapsed 0:32:33 | best none yet | bound   372.204 | gap - | nodes 29438
+14:09:40  [3/4] budget_balance_ir | elapsed 0:32:48 | best none yet | bound   372.204 | gap - | nodes 29922
+14:09:57  [3/4] budget_balance_ir | elapsed 0:33:05 | best none yet | bound   372.204 | gap - | nodes 30383
+14:10:14  [3/4] budget_balance_ir | elapsed 0:33:22 | best none yet | bound   372.204 | gap - | nodes 30739
+14:10:26  [3/4] budget_balance_ir | elapsed 0:33:33 | best none yet | bound   372.204 | gap - | nodes 30935
+14:10:46  [3/4] budget_balance_ir | elapsed 0:33:53 | best none yet | bound   372.204 | gap - | nodes 31568
+14:11:08  [3/4] budget_balance_ir | elapsed 0:34:16 | best none yet | bound   372.204 | gap - | nodes 32298
+14:11:19  [3/4] budget_balance_ir | elapsed 0:34:27 | best none yet | bound   372.204 | gap - | nodes 32398
+14:17:29  START [1/2] budget_balance_ir
+14:17:30  [1/2] budget_balance_ir | elapsed 0:00:00 | best none yet | bound         - | gap - | nodes 0
+14:17:41  [1/2] budget_balance_ir | elapsed 0:00:11 | best none yet | bound   372.162 | gap - | nodes 0
+14:17:53  [1/2] budget_balance_ir | elapsed 0:00:23 | best none yet | bound   372.162 | gap - | nodes 54
+14:18:06  [1/2] budget_balance_ir | elapsed 0:00:35 | best none yet | bound   372.162 | gap - | nodes 221
+14:18:17  [1/2] budget_balance_ir | elapsed 0:00:47 | best none yet | bound   372.162 | gap - | nodes 464
+14:18:29  [1/2] budget_balance_ir | elapsed 0:00:59 | best none yet | bound   372.162 | gap - | nodes 732
+14:18:39  [1/2] budget_balance_ir | elapsed 0:01:09 | best none yet | bound   372.162 | gap - | nodes 947
+14:18:50  [1/2] budget_balance_ir | elapsed 0:01:19 | best none yet | bound   372.162 | gap - | nodes 1322
+14:19:03  [1/2] budget_balance_ir | elapsed 0:01:32 | best none yet | bound   372.162 | gap - | nodes 1439
+14:19:15  [1/2] budget_balance_ir | elapsed 0:01:45 | best none yet | bound   372.162 | gap - | nodes 1446
+14:19:27  [1/2] budget_balance_ir | elapsed 0:01:57 | best none yet | bound   372.163 | gap - | nodes 1452
+14:19:38  [1/2] budget_balance_ir | elapsed 0:02:07 | best none yet | bound   372.164 | gap - | nodes 1484
+14:19:48  [1/2] budget_balance_ir | elapsed 0:02:18 | best none yet | bound   372.174 | gap - | nodes 1558
+14:19:59  [1/2] budget_balance_ir | elapsed 0:02:28 | best none yet | bound   372.174 | gap - | nodes 1693
+14:20:10  [1/2] budget_balance_ir | elapsed 0:02:39 | best none yet | bound   372.174 | gap - | nodes 1745
+14:20:20  [1/2] budget_balance_ir | elapsed 0:02:50 | best none yet | bound   372.174 | gap - | nodes 1887
+14:20:31  [1/2] budget_balance_ir | elapsed 0:03:00 | best none yet | bound   372.174 | gap - | nodes 1991
+14:20:42  [1/2] budget_balance_ir | elapsed 0:03:11 | best none yet | bound   372.174 | gap - | nodes 2104
+14:20:52  [1/2] budget_balance_ir | elapsed 0:03:21 | best none yet | bound   372.174 | gap - | nodes 2262
+14:21:02  [1/2] budget_balance_ir | elapsed 0:03:31 | best none yet | bound   372.174 | gap - | nodes 2367
+14:21:16  [1/2] budget_balance_ir | elapsed 0:03:45 | best none yet | bound   372.174 | gap - | nodes 2595
+14:21:26  [1/2] budget_balance_ir | elapsed 0:03:56 | best none yet | bound   372.174 | gap - | nodes 2755
+14:21:40  [1/2] budget_balance_ir | elapsed 0:04:10 | best none yet | bound   372.174 | gap - | nodes 2902
+14:21:56  [1/2] budget_balance_ir | elapsed 0:04:25 | best none yet | bound   372.177 | gap - | nodes 3126
+14:22:06  [1/2] budget_balance_ir | elapsed 0:04:36 | best none yet | bound   372.177 | gap - | nodes 3383
+14:22:19  [1/2] budget_balance_ir | elapsed 0:04:48 | best none yet | bound   372.189 | gap - | nodes 3745
+14:22:35  [1/2] budget_balance_ir | elapsed 0:05:05 | best none yet | bound   372.189 | gap - | nodes 4350
+14:22:46  [1/2] budget_balance_ir | elapsed 0:05:15 | best none yet | bound   372.189 | gap - | nodes 4573
+14:23:05  [1/2] budget_balance_ir | elapsed 0:05:34 | best none yet | bound   372.198 | gap - | nodes 5221
+14:23:16  [1/2] budget_balance_ir | elapsed 0:05:45 | best none yet | bound   372.198 | gap - | nodes 5484
+14:23:31  [1/2] budget_balance_ir | elapsed 0:06:00 | best none yet | bound   372.198 | gap - | nodes 5710
+14:23:42  [1/2] budget_balance_ir | elapsed 0:06:12 | best none yet | bound   372.199 | gap - | nodes 6388
+14:23:57  [1/2] budget_balance_ir | elapsed 0:06:27 | best none yet | bound   372.199 | gap - | nodes 6636
+14:24:11  [1/2] budget_balance_ir | elapsed 0:06:40 | best none yet | bound   372.199 | gap - | nodes 7392
+14:24:31  [1/2] budget_balance_ir | elapsed 0:07:00 | best none yet | bound   372.200 | gap - | nodes 7675
+14:24:46  [1/2] budget_balance_ir | elapsed 0:07:15 | best none yet | bound   372.201 | gap - | nodes 9016
+14:25:06  [1/2] budget_balance_ir | elapsed 0:07:35 | best none yet | bound   372.201 | gap - | nodes 9682
+14:25:21  [1/2] budget_balance_ir | elapsed 0:07:50 | best none yet | bound   372.201 | gap - | nodes 11288
+14:25:42  [1/2] budget_balance_ir | elapsed 0:08:11 | best none yet | bound   372.202 | gap - | nodes 11727
+14:26:01  [1/2] budget_balance_ir | elapsed 0:08:30 | best none yet | bound   372.202 | gap - | nodes 13229
+14:27:16  [1/2] budget_balance_ir | elapsed 0:09:46 | best none yet | bound   372.202 | gap - | nodes 13432
+14:28:01  [1/2] budget_balance_ir | elapsed 0:10:30 | best none yet | bound   372.203 | gap - | nodes 15647
+14:28:21  [1/2] budget_balance_ir | elapsed 0:10:50 | best none yet | bound   372.203 | gap - | nodes 18189
+14:28:38  [1/2] budget_balance_ir | elapsed 0:11:08 | best none yet | bound   372.203 | gap - | nodes 18376
+14:29:04  [1/2] budget_balance_ir | elapsed 0:11:34 | best none yet | bound   372.203 | gap - | nodes 18731
+14:29:19  [1/2] budget_balance_ir | elapsed 0:11:49 | best none yet | bound   372.203 | gap - | nodes 20598
+14:29:41  [1/2] budget_balance_ir | elapsed 0:12:11 | best none yet | bound   372.204 | gap - | nodes 20939
+14:29:59  [1/2] budget_balance_ir | elapsed 0:12:28 | best none yet | bound   372.204 | gap - | nodes 22699
+14:30:19  [1/2] budget_balance_ir | elapsed 0:12:48 | best none yet | bound   372.204 | gap - | nodes 22874
+14:30:36  [1/2] budget_balance_ir | elapsed 0:13:05 | best none yet | bound   372.204 | gap - | nodes 23837
+14:30:51  [1/2] budget_balance_ir | elapsed 0:13:20 | best none yet | bound   372.204 | gap - | nodes 24108
+14:31:14  [1/2] budget_balance_ir | elapsed 0:13:44 | best none yet | bound   372.204 | gap - | nodes 24421
+14:31:32  [1/2] budget_balance_ir | elapsed 0:14:02 | best none yet | bound   372.204 | gap - | nodes 24860
+14:31:59  [1/2] budget_balance_ir | elapsed 0:14:28 | best none yet | bound   372.204 | gap - | nodes 25222
+14:35:44  [1/2] budget_balance_ir | elapsed 0:18:14 | best none yet | bound   372.204 | gap - | nodes 26465
+14:36:06  [1/2] budget_balance_ir | elapsed 0:18:35 | best none yet | bound   372.204 | gap - | nodes 26469
+14:36:24  [1/2] budget_balance_ir | elapsed 0:18:53 | best none yet | bound   372.204 | gap - | nodes 26471
+14:36:44  [1/2] budget_balance_ir | elapsed 0:19:13 | best none yet | bound   372.204 | gap - | nodes 26473
+14:37:11  [1/2] budget_balance_ir | elapsed 0:19:40 | best none yet | bound   372.204 | gap - | nodes 26477
+14:37:22  [1/2] budget_balance_ir | elapsed 0:19:52 | best none yet | bound   372.204 | gap - | nodes 26626
+14:37:33  [1/2] budget_balance_ir | elapsed 0:20:03 | best none yet | bound   372.204 | gap - | nodes 26748
+14:37:44  [1/2] budget_balance_ir | elapsed 0:20:13 | best none yet | bound   372.204 | gap - | nodes 26884
+14:37:54  [1/2] budget_balance_ir | elapsed 0:20:23 | best none yet | bound   372.204 | gap - | nodes 27077
+14:38:05  [1/2] budget_balance_ir | elapsed 0:20:35 | best none yet | bound   372.204 | gap - | nodes 27269
+14:38:16  [1/2] budget_balance_ir | elapsed 0:20:46 | best none yet | bound   372.204 | gap - | nodes 27435
+14:38:28  [1/2] budget_balance_ir | elapsed 0:20:58 | best none yet | bound   372.204 | gap - | nodes 27631
+14:38:41  [1/2] budget_balance_ir | elapsed 0:21:10 | best none yet | bound   372.204 | gap - | nodes 27879
+14:38:52  [1/2] budget_balance_ir | elapsed 0:21:21 | best none yet | bound   372.204 | gap - | nodes 28135
+14:39:03  [1/2] budget_balance_ir | elapsed 0:21:32 | best none yet | bound   372.204 | gap - | nodes 28230
+14:39:17  [1/2] budget_balance_ir | elapsed 0:21:47 | best none yet | bound   372.204 | gap - | nodes 28529
+14:39:28  [1/2] budget_balance_ir | elapsed 0:21:58 | best none yet | bound   372.204 | gap - | nodes 28845
+14:39:41  [1/2] budget_balance_ir | elapsed 0:22:10 | best none yet | bound   372.204 | gap - | nodes 29120
+14:39:53  [1/2] budget_balance_ir | elapsed 0:22:23 | best none yet | bound   372.204 | gap - | nodes 29438
+14:40:07  [1/2] budget_balance_ir | elapsed 0:22:37 | best none yet | bound   372.204 | gap - | nodes 29922
+14:40:22  [1/2] budget_balance_ir | elapsed 0:22:51 | best none yet | bound   372.204 | gap - | nodes 30383
+14:40:37  [1/2] budget_balance_ir | elapsed 0:23:06 | best none yet | bound   372.204 | gap - | nodes 30739
+14:40:55  [1/2] budget_balance_ir | elapsed 0:23:24 | best none yet | bound   372.204 | gap - | nodes 31310
+14:41:13  [1/2] budget_balance_ir | elapsed 0:23:43 | best none yet | bound   372.204 | gap - | nodes 32029
+14:41:26  [1/2] budget_balance_ir | elapsed 0:23:55 | best none yet | bound   372.204 | gap - | nodes 32298
+14:41:36  [1/2] budget_balance_ir | elapsed 0:24:05 | best none yet | bound   372.204 | gap - | nodes 32398
+14:41:49  [1/2] budget_balance_ir | elapsed 0:24:18 | best none yet | bound   372.204 | gap - | nodes 32770
+14:42:00  [1/2] budget_balance_ir | elapsed 0:24:29 | best none yet | bound   372.204 | gap - | nodes 33569
+14:42:14  [1/2] budget_balance_ir | elapsed 0:24:43 | best none yet | bound   372.204 | gap - | nodes 34018
+14:42:28  [1/2] budget_balance_ir | elapsed 0:24:58 | best none yet | bound   372.204 | gap - | nodes 34860
+14:42:41  [1/2] budget_balance_ir | elapsed 0:25:11 | best none yet | bound   372.204 | gap - | nodes 35838
+14:42:57  [1/2] budget_balance_ir | elapsed 0:25:27 | best none yet | bound   372.204 | gap - | nodes 36262
+14:43:14  [1/2] budget_balance_ir | elapsed 0:25:44 | best none yet | bound   372.204 | gap - | nodes 37460
+14:43:31  [1/2] budget_balance_ir | elapsed 0:26:01 | best none yet | bound   372.204 | gap - | nodes 39058
+14:43:54  [1/2] budget_balance_ir | elapsed 0:26:23 | best none yet | bound   372.204 | gap - | nodes 39579
+14:44:21  [1/2] budget_balance_ir | elapsed 0:26:50 | best none yet | bound   372.204 | gap - | nodes 40234
+14:44:43  [1/2] budget_balance_ir | elapsed 0:27:12 | best none yet | bound   372.204 | gap - | nodes 41461
+14:45:08  [1/2] budget_balance_ir | elapsed 0:27:38 | best none yet | bound   372.204 | gap - | nodes 42282
+14:45:23  [1/2] budget_balance_ir | elapsed 0:27:52 | best none yet | bound   372.204 | gap - | nodes 44302
+14:45:42  [1/2] budget_balance_ir | elapsed 0:28:12 | best none yet | bound   372.204 | gap - | nodes 44784
+14:45:58  [1/2] budget_balance_ir | elapsed 0:28:27 | best none yet | bound   372.207 | gap - | nodes 45955
+14:46:18  [1/2] budget_balance_ir | elapsed 0:28:47 | best none yet | bound   372.208 | gap - | nodes 46575
+14:46:33  [1/2] budget_balance_ir | elapsed 0:29:02 | best none yet | bound   372.209 | gap - | nodes 48339
+14:46:50  [1/2] budget_balance_ir | elapsed 0:29:20 | best none yet | bound   372.210 | gap - | nodes 49033
+14:47:04  [1/2] budget_balance_ir | elapsed 0:29:33 | best none yet | bound   372.211 | gap - | nodes 50364
+14:47:22  [1/2] budget_balance_ir | elapsed 0:29:52 | best none yet | bound   372.211 | gap - | nodes 50736
+14:47:45  [1/2] budget_balance_ir | elapsed 0:30:15 | best none yet | bound   372.211 | gap - | nodes 51785
+14:48:38  [1/2] budget_balance_ir | elapsed 0:31:08 | best none yet | bound   372.211 | gap - | nodes 52114
+14:49:11  [1/2] budget_balance_ir | elapsed 0:31:41 | best none yet | bound   372.212 | gap - | nodes 54103
+14:49:27  [1/2] budget_balance_ir | elapsed 0:31:56 | best none yet | bound   372.213 | gap - | nodes 56562
+14:49:46  [1/2] budget_balance_ir | elapsed 0:32:15 | best none yet | bound   372.214 | gap - | nodes 56997
+14:50:02  [1/2] budget_balance_ir | elapsed 0:32:32 | best none yet | bound   372.214 | gap - | nodes 58232
+14:50:22  [1/2] budget_balance_ir | elapsed 0:32:51 | best none yet | bound   372.214 | gap - | nodes 58758
+14:50:36  [1/2] budget_balance_ir | elapsed 0:33:06 | best none yet | bound   372.215 | gap - | nodes 60275
+14:50:54  [1/2] budget_balance_ir | elapsed 0:33:24 | best none yet | bound   372.215 | gap - | nodes 60856
+14:51:15  [1/2] budget_balance_ir | elapsed 0:33:44 | best none yet | bound   372.216 | gap - | nodes 61994
+14:51:31  [1/2] budget_balance_ir | elapsed 0:34:01 | best none yet | bound   372.216 | gap - | nodes 62525
+14:51:50  [1/2] budget_balance_ir | elapsed 0:34:19 | best none yet | bound   372.216 | gap - | nodes 63128
+14:52:12  [1/2] budget_balance_ir | elapsed 0:34:42 | best none yet | bound   372.217 | gap - | nodes 64523
+14:52:32  [1/2] budget_balance_ir | elapsed 0:35:01 | best none yet | bound   372.218 | gap - | nodes 66846
+14:52:42  [1/2] budget_balance_ir | elapsed 0:35:12 | best none yet | bound   372.219 | gap - | nodes 67663
+14:52:55  [1/2] budget_balance_ir | elapsed 0:35:24 | best none yet | bound   372.219 | gap - | nodes 67986
+14:53:07  [1/2] budget_balance_ir | elapsed 0:35:36 | best none yet | bound   372.219 | gap - | nodes 68793
+14:53:21  [1/2] budget_balance_ir | elapsed 0:35:50 | best none yet | bound   372.219 | gap - | nodes 69413
+14:53:32  [1/2] budget_balance_ir | elapsed 0:36:02 | best none yet | bound   372.220 | gap - | nodes 70480
+14:53:46  [1/2] budget_balance_ir | elapsed 0:36:16 | best none yet | bound   372.220 | gap - | nodes 70870
+14:54:00  [1/2] budget_balance_ir | elapsed 0:36:30 | best none yet | bound   372.220 | gap - | nodes 72094
+14:54:11  [1/2] budget_balance_ir | elapsed 0:36:40 | best none yet | bound   372.221 | gap - | nodes 73229
+14:54:24  [1/2] budget_balance_ir | elapsed 0:36:54 | best none yet | bound   372.221 | gap - | nodes 73442
+14:54:36  [1/2] budget_balance_ir | elapsed 0:37:05 | best none yet | bound   372.221 | gap - | nodes 74570
+14:54:49  [1/2] budget_balance_ir | elapsed 0:37:19 | best none yet | bound   372.221 | gap - | nodes 74946
+14:55:00  [1/2] budget_balance_ir | elapsed 0:37:29 | best none yet | bound   372.221 | gap - | nodes 76056
+14:55:14  [1/2] budget_balance_ir | elapsed 0:37:43 | best none yet | bound   372.221 | gap - | nodes 76370
+14:55:33  [1/2] budget_balance_ir | elapsed 0:38:02 | best none yet | bound   372.222 | gap - | nodes 77411
+14:56:20  [1/2] budget_balance_ir | elapsed 0:38:49 | best none yet | bound   372.222 | gap - | nodes 77742
+14:56:53  [1/2] budget_balance_ir | elapsed 0:39:22 | best none yet | bound   372.222 | gap - | nodes 79395
+14:57:10  [1/2] budget_balance_ir | elapsed 0:39:40 | best none yet | bound   372.223 | gap - | nodes 81670
+14:57:32  [1/2] budget_balance_ir | elapsed 0:40:01 | best none yet | bound   372.223 | gap - | nodes 82208
+14:57:47  [1/2] budget_balance_ir | elapsed 0:40:16 | best none yet | bound   372.224 | gap - | nodes 83790
+14:58:06  [1/2] budget_balance_ir | elapsed 0:40:35 | best none yet | bound   372.224 | gap - | nodes 84319
+14:58:21  [1/2] budget_balance_ir | elapsed 0:40:51 | best none yet | bound   372.224 | gap - | nodes 85674
+14:58:40  [1/2] budget_balance_ir | elapsed 0:41:09 | best none yet | bound   372.225 | gap - | nodes 86302
+14:58:57  [1/2] budget_balance_ir | elapsed 0:41:26 | best none yet | bound   372.225 | gap - | nodes 87795
+14:59:26  [1/2] budget_balance_ir | elapsed 0:41:55 | best none yet | bound   372.225 | gap - | nodes 88872
+14:59:40  [1/2] budget_balance_ir | elapsed 0:42:09 | best none yet | bound   372.225 | gap - | nodes 88979
+14:59:55  [1/2] budget_balance_ir | elapsed 0:42:25 | best none yet | bound   372.225 | gap - | nodes 89417
+15:00:16  [1/2] budget_balance_ir | elapsed 0:42:45 | best none yet | bound   372.225 | gap - | nodes 89974
+15:00:37  [1/2] budget_balance_ir | elapsed 0:43:06 | best none yet | bound   372.225 | gap - | nodes 91871
+15:00:48  [1/2] budget_balance_ir | elapsed 0:43:18 | best none yet | bound   372.226 | gap - | nodes 92587
+15:01:04  [1/2] budget_balance_ir | elapsed 0:43:33 | best none yet | bound   372.226 | gap - | nodes 92935
+15:01:15  [1/2] budget_balance_ir | elapsed 0:43:45 | best none yet | bound   372.226 | gap - | nodes 94079
+15:01:31  [1/2] budget_balance_ir | elapsed 0:44:01 | best none yet | bound   372.226 | gap - | nodes 94509
+15:01:46  [1/2] budget_balance_ir | elapsed 0:44:15 | best none yet | bound   372.226 | gap - | nodes 95774
+15:01:58  [1/2] budget_balance_ir | elapsed 0:44:28 | best none yet | bound   372.226 | gap - | nodes 96853
+15:02:13  [1/2] budget_balance_ir | elapsed 0:44:42 | best none yet | bound   372.227 | gap - | nodes 97296
+15:02:25  [1/2] budget_balance_ir | elapsed 0:44:54 | best none yet | bound   372.227 | gap - | nodes 98469
+15:02:41  [1/2] budget_balance_ir | elapsed 0:45:10 | best none yet | bound   372.227 | gap - | nodes 98872
+15:02:53  [1/2] budget_balance_ir | elapsed 0:45:23 | best none yet | bound   372.227 | gap - | nodes 100004
+15:03:08  [1/2] budget_balance_ir | elapsed 0:45:37 | best none yet | bound   372.227 | gap - | nodes 100475
+15:03:22  [1/2] budget_balance_ir | elapsed 0:45:52 | best none yet | bound   372.228 | gap - | nodes 101417
+15:03:35  [1/2] budget_balance_ir | elapsed 0:46:04 | best none yet | bound   372.228 | gap - | nodes 102348
+15:03:55  [1/2] budget_balance_ir | elapsed 0:46:24 | best none yet | bound   372.228 | gap - | nodes 102763
+15:04:05  [1/2] budget_balance_ir | elapsed 0:46:35 | best none yet | bound   372.229 | gap - | nodes 104259
+15:04:19  [1/2] budget_balance_ir | elapsed 0:46:48 | best none yet | bound   372.229 | gap - | nodes 104851
+15:04:31  [1/2] budget_balance_ir | elapsed 0:47:00 | best none yet | bound   372.229 | gap - | nodes 105883
+15:04:45  [1/2] budget_balance_ir | elapsed 0:47:15 | best none yet | bound   372.229 | gap - | nodes 106470
+15:04:59  [1/2] budget_balance_ir | elapsed 0:47:29 | best none yet | bound   372.230 | gap - | nodes 107586
+15:05:10  [1/2] budget_balance_ir | elapsed 0:47:40 | best none yet | bound   372.230 | gap - | nodes 108898
+15:05:44  [1/2] budget_balance_ir | elapsed 0:48:13 | best none yet | bound   372.230 | gap - | nodes 109264
+15:05:55  [1/2] budget_balance_ir | elapsed 0:48:25 | best none yet | bound   372.230 | gap - | nodes 109617
+15:06:10  [1/2] budget_balance_ir | elapsed 0:48:39 | best none yet | bound   372.231 | gap - | nodes 110065
+15:06:23  [1/2] budget_balance_ir | elapsed 0:48:52 | best none yet | bound   372.232 | gap - | nodes 111050
+15:06:36  [1/2] budget_balance_ir | elapsed 0:49:05 | best none yet | bound   372.232 | gap - | nodes 111890
+15:06:50  [1/2] budget_balance_ir | elapsed 0:49:19 | best none yet | bound   372.233 | gap - | nodes 112672
+15:07:01  [1/2] budget_balance_ir | elapsed 0:49:31 | best none yet | bound   372.233 | gap - | nodes 113544
+15:07:17  [1/2] budget_balance_ir | elapsed 0:49:46 | best none yet | bound   372.233 | gap - | nodes 113972
+15:07:30  [1/2] budget_balance_ir | elapsed 0:50:00 | best none yet | bound   372.233 | gap - | nodes 115152
+15:07:50  [1/2] budget_balance_ir | elapsed 0:50:19 | best none yet | bound   372.234 | gap - | nodes 115816
+15:08:14  [1/2] budget_balance_ir | elapsed 0:50:43 | best none yet | bound   372.234 | gap - | nodes 117707
+15:08:24  [1/2] budget_balance_ir | elapsed 0:50:53 | best none yet | bound   372.234 | gap - | nodes 118817
+15:08:40  [1/2] budget_balance_ir | elapsed 0:51:09 | best none yet | bound   372.234 | gap - | nodes 119183
+15:08:50  [1/2] budget_balance_ir | elapsed 0:51:19 | best none yet | bound   372.235 | gap - | nodes 120530
+15:09:04  [1/2] budget_balance_ir | elapsed 0:51:34 | best none yet | bound   372.235 | gap - | nodes 120905
+15:09:15  [1/2] budget_balance_ir | elapsed 0:51:44 | best none yet | bound   372.235 | gap - | nodes 122195
+15:09:27  [1/2] budget_balance_ir | elapsed 0:51:57 | best none yet | bound   372.235 | gap - | nodes 122677
+15:09:38  [1/2] budget_balance_ir | elapsed 0:52:07 | best none yet | bound   372.235 | gap - | nodes 123465
+15:09:52  [1/2] budget_balance_ir | elapsed 0:52:21 | best none yet | bound   372.235 | gap - | nodes 123865
+15:10:02  [1/2] budget_balance_ir | elapsed 0:52:31 | best none yet | bound   372.235 | gap - | nodes 124885
+15:10:16  [1/2] budget_balance_ir | elapsed 0:52:45 | best none yet | bound   372.235 | gap - | nodes 125267
+15:10:29  [1/2] budget_balance_ir | elapsed 0:52:59 | best none yet | bound   372.236 | gap - | nodes 126335
+15:10:56  [1/2] budget_balance_ir | elapsed 0:53:25 | best none yet | bound   372.236 | gap - | nodes 127470
+15:11:07  [1/2] budget_balance_ir | elapsed 0:53:36 | best none yet | bound   372.236 | gap - | nodes 127533
+15:11:21  [1/2] budget_balance_ir | elapsed 0:53:51 | best none yet | bound   372.236 | gap - | nodes 127856
+15:11:38  [1/2] budget_balance_ir | elapsed 0:54:07 | best none yet | bound   372.236 | gap - | nodes 129074
+15:12:05  [1/2] budget_balance_ir | elapsed 0:54:34 | best none yet | bound   372.236 | gap - | nodes 129724
+15:12:17  [1/2] budget_balance_ir | elapsed 0:54:46 | best none yet | bound   372.237 | gap - | nodes 131868
+15:12:31  [1/2] budget_balance_ir | elapsed 0:55:00 | best none yet | bound   372.237 | gap - | nodes 132360
+15:12:44  [1/2] budget_balance_ir | elapsed 0:55:14 | best none yet | bound   372.237 | gap - | nodes 133224
+15:13:00  [1/2] budget_balance_ir | elapsed 0:55:30 | best none yet | bound   372.237 | gap - | nodes 133681
+15:13:13  [1/2] budget_balance_ir | elapsed 0:55:42 | best none yet | bound   372.238 | gap - | nodes 134829
+15:13:29  [1/2] budget_balance_ir | elapsed 0:55:58 | best none yet | bound   372.238 | gap - | nodes 135200
+15:13:41  [1/2] budget_balance_ir | elapsed 0:56:11 | best none yet | bound   372.238 | gap - | nodes 136437
+15:13:57  [1/2] budget_balance_ir | elapsed 0:56:27 | best none yet | bound   372.238 | gap - | nodes 136836
+15:14:11  [1/2] budget_balance_ir | elapsed 0:56:41 | best none yet | bound   372.239 | gap - | nodes 137973
+15:14:27  [1/2] budget_balance_ir | elapsed 0:56:56 | best none yet | bound   372.239 | gap - | nodes 138640
+15:14:41  [1/2] budget_balance_ir | elapsed 0:57:10 | best none yet | bound   372.239 | gap - | nodes 139711
+15:14:57  [1/2] budget_balance_ir | elapsed 0:57:27 | best none yet | bound   372.239 | gap - | nodes 140255
+15:15:13  [1/2] budget_balance_ir | elapsed 0:57:42 | best none yet | bound   372.239 | gap - | nodes 141558
+15:15:29  [1/2] budget_balance_ir | elapsed 0:57:58 | best none yet | bound   372.240 | gap - | nodes 142631
+15:15:55  [1/2] budget_balance_ir | elapsed 0:58:25 | best none yet | bound   372.240 | gap - | nodes 143275
+15:16:15  [1/2] budget_balance_ir | elapsed 0:58:45 | best none yet | bound   372.241 | gap - | nodes 145193
+15:16:30  [1/2] budget_balance_ir | elapsed 0:58:59 | best none yet | bound   372.241 | gap - | nodes 145335
+15:16:47  [1/2] budget_balance_ir | elapsed 0:59:16 | best none yet | bound   372.241 | gap - | nodes 145833
+15:17:03  [1/2] budget_balance_ir | elapsed 0:59:32 | best none yet | bound   372.242 | gap - | nodes 146677
+15:17:22  [1/2] budget_balance_ir | elapsed 0:59:52 | best none yet | bound   372.242 | gap - | nodes 147317
+15:17:40  [1/2] budget_balance_ir | elapsed 1:00:09 | best none yet | bound   372.242 | gap - | nodes 148858
+15:17:52  [1/2] budget_balance_ir | elapsed 1:00:21 | best none yet | bound   372.242 | gap - | nodes 150116
+15:18:08  [1/2] budget_balance_ir | elapsed 1:00:37 | best none yet | bound   372.242 | gap - | nodes 150554
+15:18:23  [1/2] budget_balance_ir | elapsed 1:00:53 | best none yet | bound   372.242 | gap - | nodes 151562
+15:18:38  [1/2] budget_balance_ir | elapsed 1:01:07 | best none yet | bound   372.243 | gap - | nodes 152383
+15:18:55  [1/2] budget_balance_ir | elapsed 1:01:24 | best none yet | bound   372.243 | gap - | nodes 152793
+15:19:09  [1/2] budget_balance_ir | elapsed 1:01:38 | best none yet | bound   372.243 | gap - | nodes 154126
+15:19:25  [1/2] budget_balance_ir | elapsed 1:01:55 | best none yet | bound   372.244 | gap - | nodes 154682
+15:19:41  [1/2] budget_balance_ir | elapsed 1:02:11 | best none yet | bound   372.244 | gap - | nodes 155850
+15:20:06  [1/2] budget_balance_ir | elapsed 1:02:36 | best none yet | bound   372.244 | gap - | nodes 156543
+15:20:27  [1/2] budget_balance_ir | elapsed 1:02:56 | best none yet | bound   372.244 | gap - | nodes 158311
+15:20:40  [1/2] budget_balance_ir | elapsed 1:03:10 | best none yet | bound   372.244 | gap - | nodes 158356
+15:20:58  [1/2] budget_balance_ir | elapsed 1:03:27 | best none yet | bound   372.244 | gap - | nodes 158820
+15:21:11  [1/2] budget_balance_ir | elapsed 1:03:40 | best none yet | bound   372.245 | gap - | nodes 160157
+15:21:27  [1/2] budget_balance_ir | elapsed 1:03:56 | best none yet | bound   372.245 | gap - | nodes 160611
+15:21:41  [1/2] budget_balance_ir | elapsed 1:04:10 | best none yet | bound   372.245 | gap - | nodes 161748
+15:21:57  [1/2] budget_balance_ir | elapsed 1:04:27 | best none yet | bound   372.245 | gap - | nodes 162575
+15:22:10  [1/2] budget_balance_ir | elapsed 1:04:39 | best none yet | bound   372.245 | gap - | nodes 163726
+15:22:26  [1/2] budget_balance_ir | elapsed 1:04:55 | best none yet | bound   372.245 | gap - | nodes 164165
+15:22:40  [1/2] budget_balance_ir | elapsed 1:05:09 | best none yet | bound   372.246 | gap - | nodes 165283
+15:22:57  [1/2] budget_balance_ir | elapsed 1:05:26 | best none yet | bound   372.246 | gap - | nodes 165941
+15:23:10  [1/2] budget_balance_ir | elapsed 1:05:39 | best none yet | bound   372.246 | gap - | nodes 167465
+15:23:25  [1/2] budget_balance_ir | elapsed 1:05:55 | best none yet | bound   372.247 | gap - | nodes 167891
+15:23:42  [1/2] budget_balance_ir | elapsed 1:06:12 | best none yet | bound   372.247 | gap - | nodes 168991
+15:24:06  [1/2] budget_balance_ir | elapsed 1:06:35 | best none yet | bound   372.247 | gap - | nodes 169727
+15:24:19  [1/2] budget_balance_ir | elapsed 1:06:49 | best none yet | bound   372.247 | gap - | nodes 171222
+15:24:38  [1/2] budget_balance_ir | elapsed 1:07:08 | best none yet | bound   372.248 | gap - | nodes 171596
+15:24:52  [1/2] budget_balance_ir | elapsed 1:07:21 | best none yet | bound   372.248 | gap - | nodes 173005
+15:25:09  [1/2] budget_balance_ir | elapsed 1:07:39 | best none yet | bound   372.248 | gap - | nodes 173466
+15:25:22  [1/2] budget_balance_ir | elapsed 1:07:52 | best none yet | bound   372.248 | gap - | nodes 174775
+15:26:03  [1/2] budget_balance_ir | elapsed 1:08:33 | best none yet | bound   372.248 | gap - | nodes 175174
+15:26:18  [1/2] budget_balance_ir | elapsed 1:08:47 | best none yet | bound   372.249 | gap - | nodes 175614
+15:26:36  [1/2] budget_balance_ir | elapsed 1:09:06 | best none yet | bound   372.249 | gap - | nodes 176134
+15:26:54  [1/2] budget_balance_ir | elapsed 1:09:23 | best none yet | bound   372.249 | gap - | nodes 177621
+15:27:09  [1/2] budget_balance_ir | elapsed 1:09:38 | best none yet | bound   372.250 | gap - | nodes 179034
+15:27:25  [1/2] budget_balance_ir | elapsed 1:09:55 | best none yet | bound   372.250 | gap - | nodes 179594
+15:27:40  [1/2] budget_balance_ir | elapsed 1:10:09 | best none yet | bound   372.250 | gap - | nodes 180935
+15:27:56  [1/2] budget_balance_ir | elapsed 1:10:25 | best none yet | bound   372.250 | gap - | nodes 181681
+15:28:24  [1/2] budget_balance_ir | elapsed 1:10:53 | best none yet | bound   372.250 | gap - | nodes 182331
+15:28:36  [1/2] budget_balance_ir | elapsed 1:11:05 | best none yet | bound   372.251 | gap - | nodes 184657
+15:28:50  [1/2] budget_balance_ir | elapsed 1:11:20 | best none yet | bound   372.251 | gap - | nodes 185056
+15:29:02  [1/2] budget_balance_ir | elapsed 1:11:32 | best none yet | bound   372.252 | gap - | nodes 186140
+15:29:15  [1/2] budget_balance_ir | elapsed 1:11:45 | best none yet | bound   372.252 | gap - | nodes 186455
+15:29:31  [1/2] budget_balance_ir | elapsed 1:12:00 | best none yet | bound   372.252 | gap - | nodes 186989
+15:29:42  [1/2] budget_balance_ir | elapsed 1:12:11 | best none yet | bound   372.252 | gap - | nodes 188227
+15:29:57  [1/2] budget_balance_ir | elapsed 1:12:26 | best none yet | bound   372.252 | gap - | nodes 188556
+15:30:11  [1/2] budget_balance_ir | elapsed 1:12:40 | best none yet | bound   372.253 | gap - | nodes 189888
+15:30:22  [1/2] budget_balance_ir | elapsed 1:12:51 | best none yet | bound   372.253 | gap - | nodes 190667
+15:30:37  [1/2] budget_balance_ir | elapsed 1:13:06 | best none yet | bound   372.253 | gap - | nodes 190952
+15:30:49  [1/2] budget_balance_ir | elapsed 1:13:18 | best none yet | bound   372.253 | gap - | nodes 192259
+15:31:03  [1/2] budget_balance_ir | elapsed 1:13:33 | best none yet | bound   372.253 | gap - | nodes 192661
+15:31:17  [1/2] budget_balance_ir | elapsed 1:13:47 | best none yet | bound   372.254 | gap - | nodes 193680
+15:31:33  [1/2] budget_balance_ir | elapsed 1:14:02 | best none yet | bound   372.254 | gap - | nodes 194690
+15:32:16  [1/2] budget_balance_ir | elapsed 1:14:45 | best none yet | bound   372.254 | gap - | nodes 195077
+15:32:33  [1/2] budget_balance_ir | elapsed 1:15:03 | best none yet | bound   372.254 | gap - | nodes 198298
+15:32:46  [1/2] budget_balance_ir | elapsed 1:15:15 | best none yet | bound   372.254 | gap - | nodes 198359
+15:33:00  [1/2] budget_balance_ir | elapsed 1:15:29 | best none yet | bound   372.254 | gap - | nodes 198791
+15:33:17  [1/2] budget_balance_ir | elapsed 1:15:47 | best none yet | bound   372.255 | gap - | nodes 199232
+15:33:30  [1/2] budget_balance_ir | elapsed 1:15:59 | best none yet | bound   372.255 | gap - | nodes 200574
+15:33:47  [1/2] budget_balance_ir | elapsed 1:16:16 | best none yet | bound   372.255 | gap - | nodes 201012
+15:33:59  [1/2] budget_balance_ir | elapsed 1:16:29 | best none yet | bound   372.255 | gap - | nodes 202412
+15:34:15  [1/2] budget_balance_ir | elapsed 1:16:44 | best none yet | bound   372.255 | gap - | nodes 202958
+15:34:27  [1/2] budget_balance_ir | elapsed 1:16:57 | best none yet | bound   372.256 | gap - | nodes 204031
+15:34:44  [1/2] budget_balance_ir | elapsed 1:17:13 | best none yet | bound   372.256 | gap - | nodes 204383
+15:34:57  [1/2] budget_balance_ir | elapsed 1:17:27 | best none yet | bound   372.256 | gap - | nodes 205548
+15:35:13  [1/2] budget_balance_ir | elapsed 1:17:43 | best none yet | bound   372.256 | gap - | nodes 206029
+15:35:30  [1/2] budget_balance_ir | elapsed 1:17:59 | best none yet | bound   372.256 | gap - | nodes 207258
+15:35:56  [1/2] budget_balance_ir | elapsed 1:18:25 | best none yet | bound   372.256 | gap - | nodes 207906
+15:36:08  [1/2] budget_balance_ir | elapsed 1:18:38 | best none yet | bound   372.257 | gap - | nodes 209828
+15:36:35  [1/2] budget_balance_ir | elapsed 1:19:04 | best none yet | bound   372.257 | gap - | nodes 210261
+15:36:50  [1/2] budget_balance_ir | elapsed 1:19:20 | best none yet | bound   372.257 | gap - | nodes 210415
+15:37:09  [1/2] budget_balance_ir | elapsed 1:19:39 | best none yet | bound   372.257 | gap - | nodes 210870
+15:37:25  [1/2] budget_balance_ir | elapsed 1:19:55 | best none yet | bound   372.257 | gap - | nodes 212199
+15:37:43  [1/2] budget_balance_ir | elapsed 1:20:13 | best none yet | bound   372.258 | gap - | nodes 212833
+15:37:57  [1/2] budget_balance_ir | elapsed 1:20:27 | best none yet | bound   372.258 | gap - | nodes 214133
+15:38:16  [1/2] budget_balance_ir | elapsed 1:20:45 | best none yet | bound   372.258 | gap - | nodes 214522
+15:38:31  [1/2] budget_balance_ir | elapsed 1:21:00 | best none yet | bound   372.259 | gap - | nodes 215797
+15:38:48  [1/2] budget_balance_ir | elapsed 1:21:17 | best none yet | bound   372.259 | gap - | nodes 216364
+15:39:02  [1/2] budget_balance_ir | elapsed 1:21:32 | best none yet | bound   372.259 | gap - | nodes 217540
+15:39:20  [1/2] budget_balance_ir | elapsed 1:21:49 | best none yet | bound   372.259 | gap - | nodes 218082
+15:39:35  [1/2] budget_balance_ir | elapsed 1:22:04 | best none yet | bound   372.260 | gap - | nodes 219318
+15:39:55  [1/2] budget_balance_ir | elapsed 1:22:24 | best none yet | bound   372.260 | gap - | nodes 219932
+15:40:07  [1/2] budget_balance_ir | elapsed 1:22:36 | best none yet | bound   372.260 | gap - | nodes 221373
+15:40:17  [1/2] budget_balance_ir | elapsed 1:22:47 | best none yet | bound   372.260 | gap - | nodes 222252
+15:40:31  [1/2] budget_balance_ir | elapsed 1:23:00 | best none yet | bound   372.260 | gap - | nodes 222555
+15:40:43  [1/2] budget_balance_ir | elapsed 1:23:13 | best none yet | bound   372.261 | gap - | nodes 223623
+15:40:57  [1/2] budget_balance_ir | elapsed 1:23:26 | best none yet | bound   372.261 | gap - | nodes 224028
+15:41:09  [1/2] budget_balance_ir | elapsed 1:23:39 | best none yet | bound   372.261 | gap - | nodes 224951
+15:41:24  [1/2] budget_balance_ir | elapsed 1:23:53 | best none yet | bound   372.261 | gap - | nodes 225452
+15:41:36  [1/2] budget_balance_ir | elapsed 1:24:06 | best none yet | bound   372.261 | gap - | nodes 226511
+15:41:52  [1/2] budget_balance_ir | elapsed 1:24:21 | best none yet | bound   372.261 | gap - | nodes 226848
+15:42:04  [1/2] budget_balance_ir | elapsed 1:24:34 | best none yet | bound   372.262 | gap - | nodes 228036
+15:42:30  [1/2] budget_balance_ir | elapsed 1:24:59 | best none yet | bound   372.262 | gap - | nodes 228440
+15:42:43  [1/2] budget_balance_ir | elapsed 1:25:12 | best none yet | bound   372.262 | gap - | nodes 228554
+15:42:55  [1/2] budget_balance_ir | elapsed 1:25:24 | best none yet | bound   372.262 | gap - | nodes 228874
+15:43:12  [1/2] budget_balance_ir | elapsed 1:25:42 | best none yet | bound   372.262 | gap - | nodes 229246
+15:43:26  [1/2] budget_balance_ir | elapsed 1:25:56 | best none yet | bound   372.262 | gap - | nodes 230612
+15:43:39  [1/2] budget_balance_ir | elapsed 1:26:09 | best none yet | bound   372.262 | gap - | nodes 231252
+15:43:55  [1/2] budget_balance_ir | elapsed 1:26:25 | best none yet | bound   372.262 | gap - | nodes 231730
+15:44:13  [1/2] budget_balance_ir | elapsed 1:26:42 | best none yet | bound   372.262 | gap - | nodes 232807
+15:44:36  [1/2] budget_balance_ir | elapsed 1:27:06 | best none yet | bound   372.263 | gap - | nodes 233535
+15:44:49  [1/2] budget_balance_ir | elapsed 1:27:18 | best none yet | bound   372.263 | gap - | nodes 235288
+15:45:05  [1/2] budget_balance_ir | elapsed 1:27:35 | best none yet | bound   372.263 | gap - | nodes 235619
+15:45:18  [1/2] budget_balance_ir | elapsed 1:27:48 | best none yet | bound   372.263 | gap - | nodes 236692
+15:45:35  [1/2] budget_balance_ir | elapsed 1:28:04 | best none yet | bound   372.263 | gap - | nodes 237185
+15:45:51  [1/2] budget_balance_ir | elapsed 1:28:20 | best none yet | bound   372.263 | gap - | nodes 238302
+15:46:04  [1/2] budget_balance_ir | elapsed 1:28:33 | best none yet | bound   372.263 | gap - | nodes 239382
+15:46:20  [1/2] budget_balance_ir | elapsed 1:28:49 | best none yet | bound   372.264 | gap - | nodes 239753
+15:46:35  [1/2] budget_balance_ir | elapsed 1:29:04 | best none yet | bound   372.264 | gap - | nodes 240875
+15:46:49  [1/2] budget_balance_ir | elapsed 1:29:18 | best none yet | bound   372.264 | gap - | nodes 241973
+15:47:04  [1/2] budget_balance_ir | elapsed 1:29:34 | best none yet | bound   372.264 | gap - | nodes 242449
+15:47:20  [1/2] budget_balance_ir | elapsed 1:29:49 | best none yet | bound   372.265 | gap - | nodes 243414
+15:47:40  [1/2] budget_balance_ir | elapsed 1:30:10 | best none yet | bound   372.265 | gap - | nodes 244527
+15:47:54  [1/2] budget_balance_ir | elapsed 1:30:24 | best none yet | bound   372.265 | gap - | nodes 244723
+15:48:14  [1/2] budget_balance_ir | elapsed 1:30:43 | best none yet | bound   372.265 | gap - | nodes 245334
+15:48:27  [1/2] budget_balance_ir | elapsed 1:30:57 | best none yet | bound   372.265 | gap - | nodes 246624
+15:48:28  END [1/2] budget_balance_ir: no_solution_status_11 | time 1:30:57
+15:48:28  START [2/2] budget_balance_relaxed_ir
+15:49:59  [2/2] budget_balance_relaxed_ir | elapsed 0:01:31 | best    94.998 | bound     0.000 | gap 100.00% | nodes 0
+15:50:12  [2/2] budget_balance_relaxed_ir | elapsed 0:01:43 | best    89.609 | bound     0.000 | gap 100.00% | nodes 0
+15:50:24  [2/2] budget_balance_relaxed_ir | elapsed 0:01:55 | best    89.609 | bound     0.000 | gap 100.00% | nodes 0
+15:50:35  [2/2] budget_balance_relaxed_ir | elapsed 0:02:06 | best    87.240 | bound     0.000 | gap 100.00% | nodes 0
+15:50:46  [2/2] budget_balance_relaxed_ir | elapsed 0:02:17 | best    86.646 | bound     0.000 | gap 100.00% | nodes 3
+15:50:58  [2/2] budget_balance_relaxed_ir | elapsed 0:02:29 | best    84.405 | bound     0.000 | gap 100.00% | nodes 71
+15:51:16  [2/2] budget_balance_relaxed_ir | elapsed 0:02:47 | best    83.537 | bound     0.000 | gap 100.00% | nodes 287
+15:51:33  [2/2] budget_balance_relaxed_ir | elapsed 0:03:04 | best    83.537 | bound     0.000 | gap 100.00% | nodes 402
+15:51:53  [2/2] budget_balance_relaxed_ir | elapsed 0:03:24 | best    83.537 | bound     0.000 | gap 100.00% | nodes 584
+15:52:15  [2/2] budget_balance_relaxed_ir | elapsed 0:03:46 | best    78.484 | bound     0.000 | gap 100.00% | nodes 884
+15:52:36  [2/2] budget_balance_relaxed_ir | elapsed 0:04:07 | best    77.521 | bound     0.000 | gap 100.00% | nodes 1285
+15:52:51  [2/2] budget_balance_relaxed_ir | elapsed 0:04:22 | best    51.132 | bound     0.000 | gap 100.00% | nodes 1708
+15:53:02  [2/2] budget_balance_relaxed_ir | elapsed 0:04:33 | best    51.132 | bound     0.000 | gap 100.00% | nodes 1711
+15:53:16  [2/2] budget_balance_relaxed_ir | elapsed 0:04:47 | best    51.132 | bound     0.000 | gap 100.00% | nodes 1714
+15:53:31  [2/2] budget_balance_relaxed_ir | elapsed 0:05:02 | best    51.132 | bound     0.000 | gap 100.00% | nodes 1718
+15:53:42  [2/2] budget_balance_relaxed_ir | elapsed 0:05:13 | best    49.543 | bound     0.000 | gap 100.00% | nodes 1722
+15:53:55  [2/2] budget_balance_relaxed_ir | elapsed 0:05:26 | best    49.543 | bound     0.000 | gap 100.00% | nodes 1811
+15:54:13  [2/2] budget_balance_relaxed_ir | elapsed 0:05:44 | best    49.543 | bound     0.000 | gap 100.00% | nodes 1913
+15:54:31  [2/2] budget_balance_relaxed_ir | elapsed 0:06:02 | best    49.543 | bound     0.000 | gap 100.00% | nodes 2027
+15:54:56  [2/2] budget_balance_relaxed_ir | elapsed 0:06:27 | best    49.543 | bound     0.000 | gap 100.00% | nodes 2182
+15:55:21  [2/2] budget_balance_relaxed_ir | elapsed 0:06:52 | best    49.543 | bound     0.000 | gap 100.00% | nodes 2546
+15:55:46  [2/2] budget_balance_relaxed_ir | elapsed 0:07:17 | best    49.543 | bound     0.000 | gap 100.00% | nodes 2989
+15:56:10  [2/2] budget_balance_relaxed_ir | elapsed 0:07:42 | best    49.529 | bound     0.000 | gap 100.00% | nodes 3333
+15:56:35  [2/2] budget_balance_relaxed_ir | elapsed 0:08:06 | best    49.468 | bound     0.000 | gap 100.00% | nodes 3815
+15:57:01  [2/2] budget_balance_relaxed_ir | elapsed 0:08:32 | best    49.468 | bound     0.000 | gap 100.00% | nodes 4112
+15:57:27  [2/2] budget_balance_relaxed_ir | elapsed 0:08:58 | best    49.468 | bound     0.000 | gap 100.00% | nodes 4466
+15:57:56  [2/2] budget_balance_relaxed_ir | elapsed 0:09:27 | best    49.468 | bound     0.000 | gap 100.00% | nodes 4816
+15:58:25  [2/2] budget_balance_relaxed_ir | elapsed 0:09:56 | best    49.468 | bound     0.000 | gap 100.00% | nodes 5186
+15:58:54  [2/2] budget_balance_relaxed_ir | elapsed 0:10:25 | best    49.468 | bound     0.000 | gap 100.00% | nodes 5617
+15:59:24  [2/2] budget_balance_relaxed_ir | elapsed 0:10:56 | best    49.468 | bound     0.000 | gap 100.00% | nodes 6169
+15:59:55  [2/2] budget_balance_relaxed_ir | elapsed 0:11:26 | best    49.468 | bound     0.000 | gap 100.00% | nodes 6722
+16:00:27  [2/2] budget_balance_relaxed_ir | elapsed 0:11:59 | best    49.468 | bound     0.000 | gap 100.00% | nodes 7473
+16:01:00  [2/2] budget_balance_relaxed_ir | elapsed 0:12:31 | best    49.468 | bound     0.000 | gap 100.00% | nodes 8159
+16:01:35  [2/2] budget_balance_relaxed_ir | elapsed 0:13:06 | best    49.468 | bound     0.000 | gap 100.00% | nodes 8718
+16:02:08  [2/2] budget_balance_relaxed_ir | elapsed 0:13:40 | best    49.468 | bound     0.000 | gap 100.00% | nodes 9234
+16:02:46  [2/2] budget_balance_relaxed_ir | elapsed 0:14:17 | best    49.468 | bound     0.000 | gap 100.00% | nodes 9900
+16:03:26  [2/2] budget_balance_relaxed_ir | elapsed 0:14:57 | best    49.468 | bound     0.000 | gap 100.00% | nodes 10577
+16:04:04  [2/2] budget_balance_relaxed_ir | elapsed 0:15:36 | best    49.468 | bound     0.000 | gap 100.00% | nodes 11221
+16:04:45  [2/2] budget_balance_relaxed_ir | elapsed 0:16:16 | best    49.468 | bound     0.000 | gap 100.00% | nodes 11918
+16:05:28  [2/2] budget_balance_relaxed_ir | elapsed 0:16:59 | best    49.468 | bound     0.000 | gap 100.00% | nodes 12707
+16:06:04  [2/2] budget_balance_relaxed_ir | elapsed 0:17:35 | best    49.468 | bound     0.000 | gap 100.00% | nodes 13614
+16:06:43  [2/2] budget_balance_relaxed_ir | elapsed 0:18:14 | best    49.468 | bound     0.000 | gap 100.00% | nodes 14305
+16:07:24  [2/2] budget_balance_relaxed_ir | elapsed 0:18:55 | best    49.468 | bound     0.000 | gap 100.00% | nodes 15109
+16:08:09  [2/2] budget_balance_relaxed_ir | elapsed 0:19:40 | best    49.468 | bound     0.000 | gap 100.00% | nodes 15909
+16:08:53  [2/2] budget_balance_relaxed_ir | elapsed 0:20:24 | best    49.468 | bound     0.000 | gap 100.00% | nodes 16778
+16:09:38  [2/2] budget_balance_relaxed_ir | elapsed 0:21:09 | best    49.468 | bound     0.000 | gap 100.00% | nodes 17693
+16:10:19  [2/2] budget_balance_relaxed_ir | elapsed 0:21:51 | best    49.468 | bound     0.000 | gap 100.00% | nodes 18698
+16:11:01  [2/2] budget_balance_relaxed_ir | elapsed 0:22:32 | best    49.468 | bound     0.000 | gap 100.00% | nodes 19586
+16:11:43  [2/2] budget_balance_relaxed_ir | elapsed 0:23:14 | best    49.468 | bound     0.000 | gap 100.00% | nodes 20401
+16:12:27  [2/2] budget_balance_relaxed_ir | elapsed 0:23:58 | best    49.468 | bound     0.000 | gap 100.00% | nodes 21199
+16:13:14  [2/2] budget_balance_relaxed_ir | elapsed 0:24:45 | best    49.468 | bound     0.000 | gap 100.00% | nodes 22201
+16:14:04  [2/2] budget_balance_relaxed_ir | elapsed 0:25:35 | best    49.468 | bound     0.000 | gap 100.00% | nodes 23021
+16:14:53  [2/2] budget_balance_relaxed_ir | elapsed 0:26:24 | best    49.468 | bound     0.000 | gap 100.00% | nodes 24046
+16:22:15  [2/2] budget_balance_relaxed_ir | elapsed 0:33:46 | best    49.468 | bound     0.000 | gap 100.00% | nodes 25225
+16:22:15  END [2/2] budget_balance_relaxed_ir: interrupted_best_found | time 0:33:46
+17:23:00  START [1/2] ir_shortfall_only
+17:23:03  [1/2] ir_shortfall_only | elapsed 0:00:01 | best none yet | bound     0.000 | gap - | nodes 0
+17:23:14  [1/2] ir_shortfall_only | elapsed 0:00:12 | best none yet | bound     0.000 | gap - | nodes 0
+17:23:24  [1/2] ir_shortfall_only | elapsed 0:00:23 | best none yet | bound     0.000 | gap - | nodes 0
+17:23:35  [1/2] ir_shortfall_only | elapsed 0:00:34 | best none yet | bound     0.000 | gap - | nodes 0
+17:23:47  [1/2] ir_shortfall_only | elapsed 0:00:46 | best none yet | bound     0.000 | gap - | nodes 0
+17:23:58  [1/2] ir_shortfall_only | elapsed 0:00:57 | best none yet | bound     0.000 | gap - | nodes 0
+17:24:15  [1/2] ir_shortfall_only | elapsed 0:01:14 | best none yet | bound     0.000 | gap - | nodes 13
+17:24:33  [1/2] ir_shortfall_only | elapsed 0:01:32 | best none yet | bound     0.000 | gap - | nodes 19
+17:24:58  [1/2] ir_shortfall_only | elapsed 0:01:57 | best none yet | bound     0.000 | gap - | nodes 76
+17:25:26  [1/2] ir_shortfall_only | elapsed 0:02:25 | best none yet | bound     0.000 | gap - | nodes 207
+17:26:09  [1/2] ir_shortfall_only | elapsed 0:03:08 | best none yet | bound     0.000 | gap - | nodes 463
+17:26:47  [1/2] ir_shortfall_only | elapsed 0:03:45 | best none yet | bound     0.000 | gap - | nodes 763
+17:27:24  [1/2] ir_shortfall_only | elapsed 0:04:23 | best none yet | bound     0.000 | gap - | nodes 1205
+17:27:40  [1/2] ir_shortfall_only | elapsed 0:04:39 | best none yet | bound     0.000 | gap - | nodes 1639
+17:27:52  [1/2] ir_shortfall_only | elapsed 0:04:50 | best   515.014 | bound     0.000 | gap 100.00% | nodes 1643
+17:28:03  [1/2] ir_shortfall_only | elapsed 0:05:02 | best   515.014 | bound     0.000 | gap 100.00% | nodes 1643
+17:28:23  [1/2] ir_shortfall_only | elapsed 0:05:22 | best   515.014 | bound     0.000 | gap 100.00% | nodes 1645
+17:28:43  [1/2] ir_shortfall_only | elapsed 0:05:42 | best   515.014 | bound     0.000 | gap 100.00% | nodes 1647
+17:28:54  [1/2] ir_shortfall_only | elapsed 0:05:52 | best   222.171 | bound     0.000 | gap 100.00% | nodes 1650
+17:29:06  [1/2] ir_shortfall_only | elapsed 0:06:05 | best   222.171 | bound     0.000 | gap 100.00% | nodes 1663
+17:29:19  [1/2] ir_shortfall_only | elapsed 0:06:18 | best   222.171 | bound     0.000 | gap 100.00% | nodes 1669
+17:29:34  [1/2] ir_shortfall_only | elapsed 0:06:32 | best   222.171 | bound     0.000 | gap 100.00% | nodes 1675
+17:30:05  [1/2] ir_shortfall_only | elapsed 0:07:04 | best   159.475 | bound     0.000 | gap 100.00% | nodes 1697
+17:30:58  [1/2] ir_shortfall_only | elapsed 0:07:57 | best   117.385 | bound     0.000 | gap 100.00% | nodes 1776
+17:32:57  [1/2] ir_shortfall_only | elapsed 0:09:55 | best    93.984 | bound     0.000 | gap 100.00% | nodes 1997
+17:34:43  [1/2] ir_shortfall_only | elapsed 0:11:42 | best    57.992 | bound     0.000 | gap 100.00% | nodes 2061
+17:36:24  [1/2] ir_shortfall_only | elapsed 0:13:23 | best    52.411 | bound     0.000 | gap 100.00% | nodes 2431
+17:38:21  [1/2] ir_shortfall_only | elapsed 0:15:20 | best    51.997 | bound     0.000 | gap 100.00% | nodes 2700
+17:40:21  [1/2] ir_shortfall_only | elapsed 0:17:19 | best    51.927 | bound     0.000 | gap 100.00% | nodes 3106
+17:42:49  [1/2] ir_shortfall_only | elapsed 0:19:48 | best    51.742 | bound     0.000 | gap 100.00% | nodes 3348
+17:45:00  [1/2] ir_shortfall_only | elapsed 0:21:59 | best    50.269 | bound     0.000 | gap 100.00% | nodes 3606
+17:47:24  [1/2] ir_shortfall_only | elapsed 0:24:23 | best    50.269 | bound     0.000 | gap 100.00% | nodes 3974
+17:50:02  [1/2] ir_shortfall_only | elapsed 0:27:01 | best    49.125 | bound     0.000 | gap 100.00% | nodes 4557
+17:52:42  [1/2] ir_shortfall_only | elapsed 0:29:40 | best    49.125 | bound     0.000 | gap 100.00% | nodes 4946
+17:55:13  [1/2] ir_shortfall_only | elapsed 0:32:12 | best    48.132 | bound     0.000 | gap 100.00% | nodes 5310
+17:57:57  [1/2] ir_shortfall_only | elapsed 0:34:55 | best    48.132 | bound     0.000 | gap 100.00% | nodes 5749
+18:00:33  [1/2] ir_shortfall_only | elapsed 0:37:32 | best    48.132 | bound     0.000 | gap 100.00% | nodes 6284
+18:03:31  [1/2] ir_shortfall_only | elapsed 0:40:30 | best    48.132 | bound     0.000 | gap 100.00% | nodes 6867
+18:06:07  [1/2] ir_shortfall_only | elapsed 0:43:06 | best    48.132 | bound     0.000 | gap 100.00% | nodes 7385
+18:09:01  [1/2] ir_shortfall_only | elapsed 0:46:00 | best    48.132 | bound     0.000 | gap 100.00% | nodes 8190
+18:11:42  [1/2] ir_shortfall_only | elapsed 0:48:40 | best    48.132 | bound     0.000 | gap 100.00% | nodes 8646
+18:14:44  [1/2] ir_shortfall_only | elapsed 0:51:43 | best    48.132 | bound     0.000 | gap 100.00% | nodes 9361
+18:17:51  [1/2] ir_shortfall_only | elapsed 0:54:50 | best    48.132 | bound     0.000 | gap 100.00% | nodes 9978
+18:21:10  [1/2] ir_shortfall_only | elapsed 0:58:08 | best    48.132 | bound     0.000 | gap 100.00% | nodes 10668
+18:24:36  [1/2] ir_shortfall_only | elapsed 1:01:35 | best    48.132 | bound     0.000 | gap 100.00% | nodes 11334
+18:24:37  END [1/2] ir_shortfall_only: interrupted_best_found | time 1:01:35
+18:24:37  START [2/2] relaxed_ir_stage2
+18:24:40  [2/2] relaxed_ir_stage2 | elapsed 0:00:02 | best none yet | bound         - | gap - | nodes 0
+18:24:51  [2/2] relaxed_ir_stage2 | elapsed 0:00:13 | best none yet | bound   372.162 | gap - | nodes 0
+18:25:05  [2/2] relaxed_ir_stage2 | elapsed 0:00:28 | best none yet | bound   372.162 | gap - | nodes 445
+18:25:19  [2/2] relaxed_ir_stage2 | elapsed 0:00:41 | best none yet | bound   372.162 | gap - | nodes 1721
+18:25:30  [2/2] relaxed_ir_stage2 | elapsed 0:00:52 | best none yet | bound   372.162 | gap - | nodes 2917
+18:25:42  [2/2] relaxed_ir_stage2 | elapsed 0:01:04 | best none yet | bound   372.162 | gap - | nodes 2925
+18:25:53  [2/2] relaxed_ir_stage2 | elapsed 0:01:15 | best none yet | bound   372.162 | gap - | nodes 2933
+18:26:03  [2/2] relaxed_ir_stage2 | elapsed 0:01:25 | best none yet | bound   372.162 | gap - | nodes 2997
+18:26:15  [2/2] relaxed_ir_stage2 | elapsed 0:01:37 | best none yet | bound   372.162 | gap - | nodes 3199
+18:26:30  [2/2] relaxed_ir_stage2 | elapsed 0:01:52 | best none yet | bound   372.162 | gap - | nodes 3444
+18:26:41  [2/2] relaxed_ir_stage2 | elapsed 0:02:03 | best   414.054 | bound   372.162 | gap  10.12% | nodes 3664
+18:26:52  [2/2] relaxed_ir_stage2 | elapsed 0:02:14 | best   379.500 | bound   372.162 | gap   1.93% | nodes 3943
+18:27:02  [2/2] relaxed_ir_stage2 | elapsed 0:02:24 | best   379.500 | bound   372.162 | gap   1.93% | nodes 4194
+18:27:15  [2/2] relaxed_ir_stage2 | elapsed 0:02:37 | best   379.500 | bound   372.162 | gap   1.93% | nodes 4524
+18:27:33  [2/2] relaxed_ir_stage2 | elapsed 0:02:55 | best   379.500 | bound   372.162 | gap   1.93% | nodes 5118
+18:27:44  [2/2] relaxed_ir_stage2 | elapsed 0:03:06 | best   379.500 | bound   372.162 | gap   1.93% | nodes 5787
+18:27:55  [2/2] relaxed_ir_stage2 | elapsed 0:03:17 | best   379.500 | bound   372.162 | gap   1.93% | nodes 6416
+18:28:05  [2/2] relaxed_ir_stage2 | elapsed 0:03:27 | best   379.500 | bound   372.162 | gap   1.93% | nodes 7265
+18:28:16  [2/2] relaxed_ir_stage2 | elapsed 0:03:38 | best   379.500 | bound   372.162 | gap   1.93% | nodes 8296
+18:28:34  [2/2] relaxed_ir_stage2 | elapsed 0:03:56 | best   379.500 | bound   372.162 | gap   1.93% | nodes 11121
+18:28:46  [2/2] relaxed_ir_stage2 | elapsed 0:04:08 | best   379.500 | bound   372.162 | gap   1.93% | nodes 12829
+18:29:01  [2/2] relaxed_ir_stage2 | elapsed 0:04:23 | best   379.500 | bound   372.162 | gap   1.93% | nodes 15898
+18:29:11  [2/2] relaxed_ir_stage2 | elapsed 0:04:33 | best   379.500 | bound   372.162 | gap   1.93% | nodes 18152
+18:29:21  [2/2] relaxed_ir_stage2 | elapsed 0:04:43 | best   379.500 | bound   372.162 | gap   1.93% | nodes 19133
+18:29:32  [2/2] relaxed_ir_stage2 | elapsed 0:04:54 | best   379.500 | bound   372.162 | gap   1.93% | nodes 20262
+18:29:44  [2/2] relaxed_ir_stage2 | elapsed 0:05:06 | best   379.500 | bound   372.162 | gap   1.93% | nodes 21788
+18:29:56  [2/2] relaxed_ir_stage2 | elapsed 0:05:18 | best   379.500 | bound   372.162 | gap   1.93% | nodes 23763
+18:32:04  [2/2] relaxed_ir_stage2 | elapsed 0:07:26 | best   379.500 | bound   372.162 | gap   1.93% | nodes 25700
+18:32:18  [2/2] relaxed_ir_stage2 | elapsed 0:07:40 | best   379.500 | bound   372.162 | gap   1.93% | nodes 28738
+18:32:31  [2/2] relaxed_ir_stage2 | elapsed 0:07:53 | best   379.500 | bound   372.162 | gap   1.93% | nodes 30555
+18:32:45  [2/2] relaxed_ir_stage2 | elapsed 0:08:07 | best   379.500 | bound   372.162 | gap   1.93% | nodes 32887
+18:33:01  [2/2] relaxed_ir_stage2 | elapsed 0:08:23 | best   379.500 | bound   372.162 | gap   1.93% | nodes 34376
+18:33:11  [2/2] relaxed_ir_stage2 | elapsed 0:08:33 | best   379.500 | bound   372.162 | gap   1.93% | nodes 36037
+18:33:22  [2/2] relaxed_ir_stage2 | elapsed 0:08:44 | best   379.500 | bound   372.162 | gap   1.93% | nodes 36987
+18:33:37  [2/2] relaxed_ir_stage2 | elapsed 0:08:59 | best   379.500 | bound   372.162 | gap   1.93% | nodes 38339
+18:33:49  [2/2] relaxed_ir_stage2 | elapsed 0:09:11 | best   379.500 | bound   372.162 | gap   1.93% | nodes 40338
+18:34:02  [2/2] relaxed_ir_stage2 | elapsed 0:09:25 | best   379.500 | bound   372.162 | gap   1.93% | nodes 43637
+18:34:16  [2/2] relaxed_ir_stage2 | elapsed 0:09:39 | best   379.500 | bound   372.162 | gap   1.93% | nodes 44993
+18:34:27  [2/2] relaxed_ir_stage2 | elapsed 0:09:49 | best   379.500 | bound   372.162 | gap   1.93% | nodes 45690
+18:34:38  [2/2] relaxed_ir_stage2 | elapsed 0:10:00 | best   379.500 | bound   372.162 | gap   1.93% | nodes 47461
+18:34:50  [2/2] relaxed_ir_stage2 | elapsed 0:10:12 | best   379.500 | bound   372.162 | gap   1.93% | nodes 48807
+18:35:01  [2/2] relaxed_ir_stage2 | elapsed 0:10:23 | best   379.500 | bound   372.162 | gap   1.93% | nodes 50102
+18:35:16  [2/2] relaxed_ir_stage2 | elapsed 0:10:38 | best   379.500 | bound   372.162 | gap   1.93% | nodes 51707
+18:35:30  [2/2] relaxed_ir_stage2 | elapsed 0:10:52 | best   379.500 | bound   372.162 | gap   1.93% | nodes 54013
+18:35:44  [2/2] relaxed_ir_stage2 | elapsed 0:11:06 | best   379.500 | bound   372.162 | gap   1.93% | nodes 55997
+18:35:56  [2/2] relaxed_ir_stage2 | elapsed 0:11:18 | best   379.500 | bound   372.162 | gap   1.93% | nodes 57283
+18:36:12  [2/2] relaxed_ir_stage2 | elapsed 0:11:34 | best   379.500 | bound   372.162 | gap   1.93% | nodes 60386
+18:36:22  [2/2] relaxed_ir_stage2 | elapsed 0:11:44 | best   379.500 | bound   372.162 | gap   1.93% | nodes 62231
+18:36:33  [2/2] relaxed_ir_stage2 | elapsed 0:11:55 | best   379.500 | bound   372.162 | gap   1.93% | nodes 63137
+18:36:44  [2/2] relaxed_ir_stage2 | elapsed 0:12:06 | best   379.500 | bound   372.162 | gap   1.93% | nodes 63937
+18:37:05  [2/2] relaxed_ir_stage2 | elapsed 0:12:27 | best   379.500 | bound   372.162 | gap   1.93% | nodes 65638
+18:37:16  [2/2] relaxed_ir_stage2 | elapsed 0:12:38 | best   379.500 | bound   372.162 | gap   1.93% | nodes 68463
+18:37:28  [2/2] relaxed_ir_stage2 | elapsed 0:12:50 | best   379.500 | bound   372.162 | gap   1.93% | nodes 69892
+18:37:41  [2/2] relaxed_ir_stage2 | elapsed 0:13:03 | best   379.500 | bound   372.162 | gap   1.93% | nodes 71007
+18:37:52  [2/2] relaxed_ir_stage2 | elapsed 0:13:14 | best   379.500 | bound   372.162 | gap   1.93% | nodes 72951
+18:38:05  [2/2] relaxed_ir_stage2 | elapsed 0:13:27 | best   379.500 | bound   372.162 | gap   1.93% | nodes 75000
+18:38:18  [2/2] relaxed_ir_stage2 | elapsed 0:13:40 | best   379.500 | bound   372.162 | gap   1.93% | nodes 76488
+18:38:38  [2/2] relaxed_ir_stage2 | elapsed 0:14:00 | best   379.500 | bound   372.162 | gap   1.93% | nodes 78397
+18:38:51  [2/2] relaxed_ir_stage2 | elapsed 0:14:14 | best   379.500 | bound   372.162 | gap   1.93% | nodes 82352
+18:39:02  [2/2] relaxed_ir_stage2 | elapsed 0:14:24 | best   379.500 | bound   372.162 | gap   1.93% | nodes 83633
+18:39:15  [2/2] relaxed_ir_stage2 | elapsed 0:14:37 | best   379.500 | bound   372.162 | gap   1.93% | nodes 86415
+18:39:26  [2/2] relaxed_ir_stage2 | elapsed 0:14:48 | best   379.500 | bound   372.162 | gap   1.93% | nodes 88720
+18:39:41  [2/2] relaxed_ir_stage2 | elapsed 0:15:03 | best   379.500 | bound   372.162 | gap   1.93% | nodes 90857
+18:39:56  [2/2] relaxed_ir_stage2 | elapsed 0:15:18 | best   379.500 | bound   372.162 | gap   1.93% | nodes 91421
+18:40:09  [2/2] relaxed_ir_stage2 | elapsed 0:15:31 | best   379.500 | bound   372.162 | gap   1.93% | nodes 95546
+18:40:22  [2/2] relaxed_ir_stage2 | elapsed 0:15:44 | best   379.500 | bound   372.162 | gap   1.93% | nodes 98278
+18:40:34  [2/2] relaxed_ir_stage2 | elapsed 0:15:56 | best   379.500 | bound   372.162 | gap   1.93% | nodes 100591
+18:40:47  [2/2] relaxed_ir_stage2 | elapsed 0:16:09 | best   379.500 | bound   372.162 | gap   1.93% | nodes 102567
+18:41:01  [2/2] relaxed_ir_stage2 | elapsed 0:16:23 | best   379.500 | bound   372.162 | gap   1.93% | nodes 104497
+18:41:12  [2/2] relaxed_ir_stage2 | elapsed 0:16:34 | best   379.500 | bound   372.162 | gap   1.93% | nodes 106336
+18:41:27  [2/2] relaxed_ir_stage2 | elapsed 0:16:49 | best   379.500 | bound   372.162 | gap   1.93% | nodes 108964
+18:41:41  [2/2] relaxed_ir_stage2 | elapsed 0:17:03 | best   379.500 | bound   372.162 | gap   1.93% | nodes 112102
+18:41:52  [2/2] relaxed_ir_stage2 | elapsed 0:17:14 | best   379.500 | bound   372.162 | gap   1.93% | nodes 113018
+18:42:02  [2/2] relaxed_ir_stage2 | elapsed 0:17:24 | best   379.500 | bound   372.162 | gap   1.93% | nodes 114857
+18:42:21  [2/2] relaxed_ir_stage2 | elapsed 0:17:43 | best   379.500 | bound   372.162 | gap   1.93% | nodes 118231
+18:42:34  [2/2] relaxed_ir_stage2 | elapsed 0:17:56 | best   379.500 | bound   372.162 | gap   1.93% | nodes 120799
+18:42:48  [2/2] relaxed_ir_stage2 | elapsed 0:18:10 | best   379.500 | bound   372.162 | gap   1.93% | nodes 122855
+18:42:58  [2/2] relaxed_ir_stage2 | elapsed 0:18:20 | best   379.500 | bound   372.162 | gap   1.93% | nodes 123576
+18:43:08  [2/2] relaxed_ir_stage2 | elapsed 0:18:30 | best   379.500 | bound   372.162 | gap   1.93% | nodes 125560
+18:43:22  [2/2] relaxed_ir_stage2 | elapsed 0:18:44 | best   379.500 | bound   372.162 | gap   1.93% | nodes 127396
+18:43:32  [2/2] relaxed_ir_stage2 | elapsed 0:18:54 | best   379.500 | bound   372.162 | gap   1.93% | nodes 129139
+18:43:44  [2/2] relaxed_ir_stage2 | elapsed 0:19:06 | best   379.500 | bound   372.162 | gap   1.93% | nodes 130827
+18:43:58  [2/2] relaxed_ir_stage2 | elapsed 0:19:20 | best   379.500 | bound   372.162 | gap   1.93% | nodes 131392
+18:44:09  [2/2] relaxed_ir_stage2 | elapsed 0:19:32 | best   379.500 | bound   372.162 | gap   1.93% | nodes 134616
+18:44:22  [2/2] relaxed_ir_stage2 | elapsed 0:19:44 | best   379.500 | bound   372.162 | gap   1.93% | nodes 135390
+18:44:32  [2/2] relaxed_ir_stage2 | elapsed 0:19:54 | best   379.500 | bound   372.162 | gap   1.93% | nodes 138858
+18:44:47  [2/2] relaxed_ir_stage2 | elapsed 0:20:09 | best   379.500 | bound   372.162 | gap   1.93% | nodes 142222
+18:44:58  [2/2] relaxed_ir_stage2 | elapsed 0:20:20 | best   379.500 | bound   372.162 | gap   1.93% | nodes 143438
+18:45:09  [2/2] relaxed_ir_stage2 | elapsed 0:20:31 | best   379.500 | bound   372.162 | gap   1.93% | nodes 145094
+18:45:20  [2/2] relaxed_ir_stage2 | elapsed 0:20:42 | best   379.500 | bound   372.162 | gap   1.93% | nodes 146852
+18:45:34  [2/2] relaxed_ir_stage2 | elapsed 0:20:56 | best   379.500 | bound   372.162 | gap   1.93% | nodes 149922
+18:45:49  [2/2] relaxed_ir_stage2 | elapsed 0:21:11 | best   379.500 | bound   372.162 | gap   1.93% | nodes 152074
+18:46:02  [2/2] relaxed_ir_stage2 | elapsed 0:21:24 | best   379.500 | bound   372.162 | gap   1.93% | nodes 155431
+18:46:17  [2/2] relaxed_ir_stage2 | elapsed 0:21:39 | best   379.500 | bound   372.162 | gap   1.93% | nodes 157840
+18:46:29  [2/2] relaxed_ir_stage2 | elapsed 0:21:51 | best   379.500 | bound   372.162 | gap   1.93% | nodes 159680
+18:46:40  [2/2] relaxed_ir_stage2 | elapsed 0:22:02 | best   379.500 | bound   372.162 | gap   1.93% | nodes 161523
+18:46:55  [2/2] relaxed_ir_stage2 | elapsed 0:22:17 | best   379.500 | bound   372.162 | gap   1.93% | nodes 164618
+18:47:05  [2/2] relaxed_ir_stage2 | elapsed 0:22:27 | best   379.500 | bound   372.162 | gap   1.93% | nodes 166934
+18:47:18  [2/2] relaxed_ir_stage2 | elapsed 0:22:40 | best   379.500 | bound   372.162 | gap   1.93% | nodes 170065
+18:47:30  [2/2] relaxed_ir_stage2 | elapsed 0:22:52 | best   379.500 | bound   372.162 | gap   1.93% | nodes 173547
+18:47:42  [2/2] relaxed_ir_stage2 | elapsed 0:23:04 | best   379.500 | bound   372.162 | gap   1.93% | nodes 176158
+18:47:53  [2/2] relaxed_ir_stage2 | elapsed 0:23:15 | best   379.500 | bound   372.162 | gap   1.93% | nodes 178279
+18:48:04  [2/2] relaxed_ir_stage2 | elapsed 0:23:26 | best   379.500 | bound   372.162 | gap   1.93% | nodes 180864
+18:48:19  [2/2] relaxed_ir_stage2 | elapsed 0:23:41 | best   379.500 | bound   372.162 | gap   1.93% | nodes 182461
+18:48:58  [2/2] relaxed_ir_stage2 | elapsed 0:24:20 | best   379.500 | bound   372.162 | gap   1.93% | nodes 184208
+18:49:10  [2/2] relaxed_ir_stage2 | elapsed 0:24:32 | best   379.500 | bound   372.162 | gap   1.93% | nodes 187216
+18:49:26  [2/2] relaxed_ir_stage2 | elapsed 0:24:48 | best   379.500 | bound   372.162 | gap   1.93% | nodes 188208
+18:49:38  [2/2] relaxed_ir_stage2 | elapsed 0:25:00 | best   379.500 | bound   372.162 | gap   1.93% | nodes 190552
+18:49:52  [2/2] relaxed_ir_stage2 | elapsed 0:25:14 | best   379.500 | bound   372.162 | gap   1.93% | nodes 192550
+18:50:08  [2/2] relaxed_ir_stage2 | elapsed 0:25:30 | best   379.500 | bound   372.162 | gap   1.93% | nodes 195243
+18:50:25  [2/2] relaxed_ir_stage2 | elapsed 0:25:47 | best   379.500 | bound   372.162 | gap   1.93% | nodes 197091
+18:50:43  [2/2] relaxed_ir_stage2 | elapsed 0:26:05 | best   379.500 | bound   372.162 | gap   1.93% | nodes 199687
+18:50:54  [2/2] relaxed_ir_stage2 | elapsed 0:26:16 | best   379.500 | bound   372.162 | gap   1.93% | nodes 201228
+18:51:06  [2/2] relaxed_ir_stage2 | elapsed 0:26:28 | best   379.500 | bound   372.162 | gap   1.93% | nodes 203185
+18:51:20  [2/2] relaxed_ir_stage2 | elapsed 0:26:42 | best   379.500 | bound   372.162 | gap   1.93% | nodes 204880
+18:51:32  [2/2] relaxed_ir_stage2 | elapsed 0:26:54 | best   379.500 | bound   372.162 | gap   1.93% | nodes 206262
+18:51:45  [2/2] relaxed_ir_stage2 | elapsed 0:27:08 | best   379.500 | bound   372.162 | gap   1.93% | nodes 208383
+18:52:06  [2/2] relaxed_ir_stage2 | elapsed 0:27:28 | best   379.500 | bound   372.162 | gap   1.93% | nodes 210036
+18:52:23  [2/2] relaxed_ir_stage2 | elapsed 0:27:45 | best   379.500 | bound   372.162 | gap   1.93% | nodes 213086
+18:52:34  [2/2] relaxed_ir_stage2 | elapsed 0:27:56 | best   379.500 | bound   372.162 | gap   1.93% | nodes 214300
+18:52:46  [2/2] relaxed_ir_stage2 | elapsed 0:28:08 | best   379.500 | bound   372.162 | gap   1.93% | nodes 216176
+18:53:00  [2/2] relaxed_ir_stage2 | elapsed 0:28:22 | best   379.500 | bound   372.162 | gap   1.93% | nodes 217167
+18:53:13  [2/2] relaxed_ir_stage2 | elapsed 0:28:35 | best   379.500 | bound   372.162 | gap   1.93% | nodes 218967
+18:53:25  [2/2] relaxed_ir_stage2 | elapsed 0:28:47 | best   379.500 | bound   372.162 | gap   1.93% | nodes 220186
+18:53:39  [2/2] relaxed_ir_stage2 | elapsed 0:29:01 | best   379.500 | bound   372.162 | gap   1.93% | nodes 222146
+18:54:01  [2/2] relaxed_ir_stage2 | elapsed 0:29:23 | best   379.500 | bound   372.162 | gap   1.93% | nodes 223835
+18:54:02  END [2/2] relaxed_ir_stage2: interrupted_best_found | time 0:29:24
